@@ -1,1 +1,1 @@
-web: gunicorn heroku-django-trail.wsgi
+web: gunicorn heroku-django-trial.wsgi
