@@ -1,5 +1,6 @@
 version: 2.1
 orbs:
+  python: circleci/python@3.10.3
   heroku: circleci/heroku@0.0.10
 workflows:
   heroku_deploy:
